@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Wiles Vando Olveira da Costa, sou um programador front-end. Estou aprendendo a desenvolver projetos com HTML, CSS e começando os estudos de JavaScript.
+Me chamo Wiles Vando Olveira da Costa, sou um programador front-end. Estou aprendendo a desenvolver projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
